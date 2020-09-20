@@ -19,6 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homePage":".",
   "eslintConfig": {
     "extends": "react-app"
   },
